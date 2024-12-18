@@ -1,8 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```markdown
+# E-Learning Website
 
-Currently, two official plugins are available:
+An interactive e-learning platform built using **React** and **JSX**, featuring smooth animations powered by **Framer Motion** and modern, responsive styling with **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design for seamless user experience.
+- Dynamic animations for enhanced interactivity.
+- Built with modern web development tools.
+
+## Technologies Used
+- React
+- JSX
+- Framer Motion
+- Tailwind CSS
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/masimkhan-dev/e-learning-website.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd e-learning-website
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
+
+## Contributing
+Feel free to fork this repository and submit pull requests. Contributions are welcome!
+
+---
+
+**Made with ❤️ by Asim Khan dev**
+```
